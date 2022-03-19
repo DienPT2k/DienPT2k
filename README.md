@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DienPT2k
+- 👀 I’m interested in HTML, CSS, JavaScript, Bootstrap and Python.
+- 🌱 I’m currently learning Can Tho University of Technology.
+- 📫 Contact me: ptdien.job@gmail.com
